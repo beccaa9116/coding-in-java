@@ -3,7 +3,7 @@
 Welcome to my Java for Beginners repository! 🎉 This is where I'm embarking on my exciting adventure into the world of Java programming. Join me as I learn, experiment, and grow my coding skills from the ground up.
 
 
-### **What You'll Find Here:** 
+### 🔎 **What You'll Find Here:** 
 
 - 📝 Simple, easy-to-follow Java examples that I've worked on.
 - 🚀 Hands-on coding exercises that are helping me practice my skills.
